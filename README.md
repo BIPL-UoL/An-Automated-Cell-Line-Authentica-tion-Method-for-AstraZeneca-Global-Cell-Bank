@@ -37,6 +37,8 @@ python cell_classification.py --bs 20 --arch Xception --resume ./checkpoint/Xcep
 ## Training/Testing CLRNet or with tranfer learning 
 Use JupyterLab to open 'model_evaluation.ipynb' and run all code blocks.
 
+## License
+This code is made available under the GPLv3 License and is available for non-commercial academic purposes.
 
 ## Acknowledgement
 The authors gratefully acknowledge financial support from University of Leicester, AstraZeneca UK, China Scholarship Council.
