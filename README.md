@@ -21,7 +21,7 @@ For any issue and question, please email [lt228@leicester.ac.uk]
 
 Part of example images are put in the './data'. The whole dataset will be published after getting license.
 
-<img src="./figures/Fig. 4.jpeg" alt="centered image" width="800" height="800">
+<img src="./figures/Fig. 4.jpeg" alt="centered image" width="893" height="860">
 
 ## Training CLCNet
 
