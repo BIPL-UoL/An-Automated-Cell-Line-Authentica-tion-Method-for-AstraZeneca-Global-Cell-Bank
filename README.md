@@ -47,5 +47,9 @@ The authors gratefully acknowledge financial support from University of Leiceste
 ------
 If you find that is useful in your research, please consider citing:
 ```
-
+@article{tong2021automated,
+  title={An Automated Cell Line Authentication Method for AstraZeneca Global Cell Bank using Deep Neural Networks on Brightfield Images},
+  author={Tong, Lei and Corrigan, Adam and Kumar, Navin Rathna and Hallbrook, Kerry and Orme, Jonathon and Wang, Yinhai and Zhou, Huiyu},
+  year={2021}
+}
 ```
