@@ -31,10 +31,8 @@ python cell_classification.py --bs 20 --arch Xception
 ```
 
 ## Testing CLCNet
-```bash
-cd ./networks/classification
-python cell_classification.py --bs 20 --arch Xception --resume ./checkpoint/Xception/best.pth --evaluate
-```
+Use JupyterLab to open 'model_evaluation.ipynb' and run code blocks.
+
 ## Training/Testing CLRNet or with tranfer learning 
 Use JupyterLab to open 'model_evaluation.ipynb' and run all code blocks.
 

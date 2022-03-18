@@ -222,8 +222,6 @@ def train(net,trainloader,optimizer,criterion,device):
     train_loss = 0
 
 
-
-
     for batch_idx, (inputs, targets) in enumerate(trainloader):
         inputs, targets = inputs.to(device), targets.to(device)
         optimizer.zero_grad()
